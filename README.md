@@ -201,8 +201,8 @@ cd anhanguera-extension-project-I-frontend
 
 ## ⚡ Deploy
 
-See this site live (after publishing):  
-👉 [GitHub Pages Link Here!](#)
+See this site live:  
+👉 [https://solozabal.github.io/anhanguera-extension-project-I-frontend/](https://solozabal.github.io/anhanguera-extension-project-I-frontend/)
 
 How to deploy?  
 Go to your repo > **Settings** > **Pages**  
@@ -222,7 +222,7 @@ Go to your repo > **Settings** > **Pages**
 
 ## 👤 Author
 
-Made by [![LinkedIn: Pedro Solozabal](https://img.shields.io/badge/-Pedro%20Solozabal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrosolozabal/)](https://www.linkedin.com/in/pedrosolozabal/)
+[![LinkedIn: Pedro Solozabal](https://img.shields.io/badge/-Pedro%20Solozabal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrosolozabal/)](https://www.linkedin.com/in/pedrosolozabal/)
 
 ---
 
