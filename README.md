@@ -204,11 +204,6 @@ cd anhanguera-extension-project-I-frontend
 See this site live:  
 👉 [https://solozabal.github.io/anhanguera-extension-project-I-frontend/](https://solozabal.github.io/anhanguera-extension-project-I-frontend/)
 
-How to deploy?  
-Go to your repo > **Settings** > **Pages**  
-- Source: `main` branch, `/ (root)` directory  
-- Click Save and use the generated link here in your README
-
 ---
 
 ## 🛠️ Tech Stack
