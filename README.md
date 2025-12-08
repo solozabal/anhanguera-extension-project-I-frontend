@@ -215,12 +215,14 @@ See this site live:
 
 ---
 
-## 👤 Author
+## 💡 License
 
-[![LinkedIn: Pedro Solozabal](https://img.shields.io/badge/-Pedro%20Solozabal-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrosolozabal/)](https://www.linkedin.com/in/pedrosolozabal/)
+This project is licensed under the MIT License.
 
 ---
 
-## ⚖️ License
-
-Distributed under the MIT License. See `LICENSE` for details.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedrosolozabal/">
+    <img src="https://img.shields.io/badge/Pedro%20Solozabal-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Pedro Solozabal on LinkedIn">
+  </a>
+</p>
